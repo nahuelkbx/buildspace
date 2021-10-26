@@ -10,10 +10,7 @@ export default function App() {
       <div className="dataContainer">
         <div className="header">👋 Hey there!</div>
 
-        <div className="bio">
-          I am Nahuel and I worked on self-driving cars so that's pretty cool
-          right? Connect your Ethereum wallet and wave at me!
-        </div>
+        <div className="bio">I am Nahuel and I love dogs</div>
 
         <button className="waveButton" onClick={wave}>
           Wave at Me
