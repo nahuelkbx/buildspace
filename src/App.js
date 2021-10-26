@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ethers } from "ethers";
+// import { ethers } from "ethers";
 import "./App.css";
 
 export default function App() {
@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="mainContainer">
       <div className="dataContainer">
-        <div className="header">👋 Hey there!</div>
+        <div className="header"> Hey there!</div>
 
         <div className="bio">I am Nahuel and I love dogs</div>
 
